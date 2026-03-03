@@ -1,2 +1,2 @@
 # r1
-Responstid
+Denne måler Responstid
